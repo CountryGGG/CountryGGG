@@ -86,6 +86,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/CountryGGG/CountryGGG/output/snake.svg" alt="Snake animation" />
+![snake_gif](https://github.com/CountryGGG/CountryGGG-J/blob/output/github-snake-dark.svg)
 
 ###
