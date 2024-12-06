@@ -5,11 +5,17 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CountryGGG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CountryGGG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+</br>
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=CountryGGG&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
+<h2 align="left">💻   Technologies   </h2>
+
+###
 <img align="right" height="200" src="https://i.pinimg.com/originals/b0/c8/19/b0c81961153a56eab83cf03d862345af.gif"  />
 
 ###
@@ -74,6 +80,9 @@
 
 ###
 
+<h2 align="left">🎯   Social Medias   </h2>
+
+###
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
@@ -86,20 +95,6 @@
 ###
 
 <br clear="both">
-
-###
-
-
-<h2 align="left">🔥   My Stats :</h2>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CountryGGG&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-   <a href="https://open.spotify.com/user/ucg7nojj3kyr6rjx8a9lkowf3">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ucg7nojj3kyr6rjx8a9lkowf3&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 <h2 align="left">🎶🎵   My Music   🎶🎵:</h2>
