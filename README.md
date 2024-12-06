@@ -87,23 +87,21 @@
 <br clear="both">
 
 ###
+<h2 align="left">🔥   My Stats and Music 🎶🎵:</h2>
 
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
+  <!-- Columna de Stats -->
+  <div>
+    <img src="https://streak-stats.demolab.com?user=CountryGGG&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  </div>
 
-<h2 align="left">🔥   My Stats :</h2>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CountryGGG&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <!-- Columna de Música -->
+  <div>
+    <a href="https://open.spotify.com/user/ucg7nojj3kyr6rjx8a9lkowf3">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=ucg7nojj3kyr6rjx8a9lkowf3&count=5" alt="Spotify recently played" />
+    </a>
+  </div>
 </div>
 
-###
-<h2 align="left">🎶🎵   My Music   🎶🎵:</h2>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ucg7nojj3kyr6rjx8a9lkowf3">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ucg7nojj3kyr6rjx8a9lkowf3&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
