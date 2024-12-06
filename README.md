@@ -89,7 +89,7 @@
 ###
 
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
@@ -98,8 +98,7 @@
 </div>
 
 ###
-<h3 align="left">🎶🎵   My Music   🎶🎵:</h3>
-###
+<h2 align="left">🎶🎵   My Music   🎶🎵:</h2>
 
 <div align="center">
   <a href="https://open.spotify.com/user/ucg7nojj3kyr6rjx8a9lkowf3">
